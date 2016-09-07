@@ -1,11 +1,11 @@
 {
   "name": "tiredhands",
   "version": "0.0.1",
-  "factorio_version": "0.14",
+  "factorio_version": "0.13",
   "title": "Tired Hands",
   "author": "justarandomgeek",
   "homepage": "",
   "contact": "justarandomgeek@gmail.com",
   "description": "Crafting and mining speed starts very high, but decays with use.",
-  "dependencies": ["base >= 0.14.0"]
+  "dependencies": ["base >= 0.13.0"]
 }
